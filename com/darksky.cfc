@@ -7,7 +7,7 @@
     <!--- this is optional, but you can get an api key here https://opencagedata.com/api there are rate limits just like darksky
         if you don't use this, you need to always specify lat & lng
     --->
-    <cfset variables.opencageapikey = "dbae2ecab66849e0a4f5e722a13cabba">
+    <cfset variables.opencageapikey = "">
     <cfset variables.opencageapiuri = "https://api.opencagedata.com/geocode/v1/json">
     <!--- end optional open cage --->
 
