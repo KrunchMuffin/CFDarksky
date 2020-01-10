@@ -1,7 +1,7 @@
 <cfcomponent output="false">
 
     <cfset variables.dsapiuri = "https://api.darksky.net/forecast">
-    <cfset variables.dsapikey = "8d16bf0ed5cf2208fc2e01a635fbff7f">
+    <cfset variables.dsapikey = "">
     <!--- <cfset variables.lat = "39.958359">
     <cfset variables.lng = "-75.195393"> --->
     <!--- this is optional, but you can get an api key here https://opencagedata.com/api there are rate limits just like darksky
